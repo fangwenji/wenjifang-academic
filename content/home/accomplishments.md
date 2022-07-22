@@ -10,8 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-# title: 'Accomplish&shy;ments'
-title: 'Awards&Honers'
+title: 'Accomplish&shy;ments'
 subtitle:
 
 # Date format
@@ -24,21 +23,21 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: 'https://www.comap.com/undergraduate/contests/'
+  - certificate_url: https://www.coursera.org
     date_end: ''
-    date_start: '2020-01-25'
+    date_start: '2021-01-25'
     description: ''
-    organization: MCM/ICM
-    organization_url: https://www.comap.com/undergraduate/contests/
-    title: Finalist Prize of the Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Neural Networks and Deep Learning
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
-    date_start: '2019-010-01'
+    date_start: '2021-01-01'
     description: Formulated informed blockchain models, hypotheses, and use cases.
     organization: edX
     organization_url: https://www.edx.org
-    title: 1st Prize of the Electronics Circuit Competition of NUAA
+    title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
