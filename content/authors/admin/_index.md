@@ -25,11 +25,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MPhil in Microelectronics
+    - course: M.Phil in Microelectronics
       institution: Hong Kong University of Science and Technology (Guangzhou)
       year: 2022 - Present
 
-    - course: BEng in Electrical Engineering and Automation
+    - course: B.Eng in Electrical Engineering and Automation
       institution: Nanjing University of Aeronautics and Astronautics
       year: 2021
 
