@@ -26,24 +26,29 @@ experience:
     company: HKUST(GZ)
     company_url: 'https://hkust-gz.edu.cn/'
     # company_logo: org-gc
-    location: Guangzhou, China
+    location: Guangzhou, Guangdong, China
     date_start: '2021-12-12'
     date_end: '2022-07-29'
     description: |2-
         Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        * Achieve a end-to-end unbounded formal verification framework for microprocessors
+        * Employ symbolic simulation technique to model the microprocessor
+        * Verify the functional correctness properties
+        * Test the framework with multiple pipelined processor test cases
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: VLSI Physical Design Intern
+    company: Peng Cheng Laboratory
+    company_url: 'https://www.pcl.ac.cn/'
+    company_logo:  < staticref "uploads/pcl.jpg" "newtab" >
+    location: Shenzhen, Guangdong, China
+    date_start: '2021-07-15'
+    date_end: '2021-12-10'
+    description: |2-
+        Responsibilities include:
+        * Complete an entire physical design process of a SoC
+        * Participate in defining clock specification, design constriants  
+        * Design a single-cycle RISC-V processor
 
 design:
   columns: '2'
