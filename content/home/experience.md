@@ -26,9 +26,9 @@ experience:
     company: HKUST(GZ)
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Guangzhou, China
+    date_start: '2021-12-12'
+    date_end: '2022-07-29'
     description: |2-
         Responsibilities include:
         
