@@ -52,7 +52,7 @@ social:
     link: https://github.com/fangwenji
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/ #TODO
+    link: http://linkedin.com/in/wenji-fang-1174891b3
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
