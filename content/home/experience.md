@@ -40,7 +40,7 @@ experience:
   - title: VLSI Physical Design Intern
     company: Peng Cheng Laboratory
     company_url: 'https://www.pcl.ac.cn/'
-    company_logo:  < staticref "uploads/pcl.jpg" "newtab" >
+    company_logo:  pcl
     location: Shenzhen, Guangdong, China
     date_start: '2021-07-15'
     date_end: '2021-12-10'
