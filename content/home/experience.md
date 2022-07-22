@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: HKUST(GZ)
     company_url: 'https://hkust-gz.edu.cn/'
-    company_logo: org-hkust
+    # company_logo: org-gc
     location: Guangzhou, China
     date_start: '2021-12-12'
     date_end: '2022-07-29'
