@@ -30,7 +30,7 @@ item:
     description: ''
     organization: MCM/ICM
     organization_url: https://www.comap.com/undergraduate/contests/
-    title: *Finalist* *Prize* of the Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling
+    title: Finalist Prize of the Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
@@ -38,7 +38,7 @@ item:
     description: Formulated informed blockchain models, hypotheses, and use cases.
     organization: edX
     organization_url: https://www.edx.org
-    title: *1st* *Prize* of the Electronics Circuit Competition of NUAA
+    title: 1st Prize of the Electronics Circuit Competition of NUAA
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
