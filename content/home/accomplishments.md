@@ -27,7 +27,7 @@ item:
     date_end: ''
     date_start: '2021-01-25'
     description: ''
-    organization: Coursera
+    organization: HKUST
     organization_url: 'https://hkust-gz.edu.cn/'
     title: Neural Networks and Deep Learning
     url: ''
