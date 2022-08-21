@@ -40,7 +40,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:wenjifang@ust.hk
+    link: mailto:wfang838@connect.hkust-gz.edu.cn
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -68,6 +68,6 @@ email: 'wenjifang@ust.hk'
 highlight_name: true
 ---
 
-Hi! I'm Wenji Fang, currently a M.Phil student at the Microelectronics Thrust, Function Hub of the Hong Kong University of Science and Technology (Guangzhou), advised by [Prof.Hongce Zhang](https://hongcezh.people.ust.hk/) from Fall 2022.  Previously, I received my B.Eng in the Department of Automation from Nanjing University of Aeronautics and Astronautics. My research interests include hardware formal verification and VLSI design.
+Hi! I'm Wenji Fang, currently a M.Phil student at the Microelectronics Thrust, Function Hub of the Hong Kong University of Science and Technology (Guangzhou), advised by [Prof.Hongce Zhang](https://hongcezh.people.ust.hk/).  Previously, I received my B.Eng in the Department of Automation from Nanjing University of Aeronautics and Astronautics. My research interests include hardware formal verification and VLSI design.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/FANG_Wenji_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
