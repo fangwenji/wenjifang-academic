@@ -46,7 +46,7 @@ experience:
     date_end: '2021-12-10'
     description: |2-
         Responsibilities include:
-        * Complete an entire physical design process of a SoC
+        * Complete an entire physical design process of an SoC
         * Participate in defining clock specification, design constriants  
         * Design a single-cycle RISC-V processor
 
