@@ -26,7 +26,7 @@ interests:
 education:
   courses:
     - course: M.Phil in Microelectronics
-      institution: Hong Kong University of Science and Technology (Guangzhou)
+      institution: The Hong Kong University of Science and Technology (Guangzhou)
       year: 2022 - Present
 
     - course: B.Eng in Electrical Engineering and Automation
