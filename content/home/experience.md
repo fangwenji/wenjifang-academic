@@ -37,7 +37,7 @@ experience:
         * Test the framework with multiple pipelined processor test cases
 
 
-  - title: VLSI Physical Design Intern
+  - title: VLSI Physical Design Intern ("One Student One Chip" Project)
     company: Peng Cheng Laboratory
     company_url: 'https://www.pcl.ac.cn/'
     company_logo:  pcl
