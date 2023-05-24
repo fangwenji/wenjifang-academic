@@ -31,7 +31,7 @@ experience:
     date_end: '2022-07-29'
     description: |2-
         Responsibilities include:
-        * Achieve a end-to-end unbounded formal verification framework for microprocessors
+        * Achieve an end-to-end unbounded formal verification framework for microprocessors
         * Employ symbolic simulation technique to model the microprocessor
         * Verify the functional correctness properties
         * Test the framework with multiple pipelined processor test cases
