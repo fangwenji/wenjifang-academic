@@ -41,6 +41,7 @@ experience:
     company: Peng Cheng Laboratory
     company_url: 'https://www.pcl.ac.cn/'
     company_logo:  pcl
+    advisor: Dr. Biwei Xie
     location: Shenzhen, Guangdong, China
     date_start: '2021-07-15'
     date_end: '2021-12-10'
