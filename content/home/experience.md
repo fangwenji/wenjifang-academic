@@ -46,6 +46,7 @@ experience:
     date_start: '2021-07-15'
     date_end: '2021-12-10'
     description: |2-
+        Advisor: Dr. Biwei Xie
         Responsibilities include:
         * Complete an entire physical design process of an SoC
         * Participate in defining clock specification, design constriants  
