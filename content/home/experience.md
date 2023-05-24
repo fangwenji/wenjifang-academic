@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
-    company: HKUST(GZ)
+    company: HKUST(GZ) (Advisor: Prof. Hongce Zhang)
     company_url: 'https://hkust-gz.edu.cn/'
     company_logo: hkust
     location: Guangzhou, Guangdong, China
@@ -38,15 +38,13 @@ experience:
 
 
   - title: VLSI Physical Design Intern [("One Student One Chip" Project)](https://ysyx.oscc.cc/) 
-    company: Peng Cheng Laboratory
+    company: Peng Cheng Laboratory (Advisor: [Dr. Biwei Xie](https://acs.ict.ac.cn/english/people_acs_en/assistantresearcher_acs_en/202209/t20220927_46135.html))
     company_url: 'https://www.pcl.ac.cn/'
     company_logo:  pcl
-    advisor: Dr. Biwei Xie
     location: Shenzhen, Guangdong, China
     date_start: '2021-07-15'
     date_end: '2021-12-10'
     description: |2-
-        Advisor: Dr. Biwei Xie \\
         Responsibilities include:
         * Complete an entire physical design process of an SoC
         * Participate in defining clock specification, design constriants  
