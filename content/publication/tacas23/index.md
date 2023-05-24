@@ -47,7 +47,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: 'https://github.com/fangwenji/tacas23-wasim.git'
-url_slides: ''
+url_slides: 'https://hkustgz-my.sharepoint.com/:b:/g/personal/wfang838_connect_hkust-gz_edu_cn/EXSNwAonsOBFmBw_OnyavugBFZSUgr069TndqLJLa4APnQ?e=84PrmP'
 url_source: ''
 url_video: ''
 
