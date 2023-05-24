@@ -38,7 +38,7 @@ experience:
 
 
   - title: VLSI Physical Design Intern [("One Student One Chip" Project)](https://ysyx.oscc.cc/) 
-    company: Peng Cheng Laboratory
+    company: Peng Cheng Laboratory (Advisor: Dr. Biwei Xie)
     company_url: 'https://www.pcl.ac.cn/'
     company_logo:  pcl
     location: Shenzhen, Guangdong, China
