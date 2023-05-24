@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
-    company: HKUST(GZ) (Advisor: Prof. Hongce Zhang)
+    company: HKUST(GZ)
     company_url: 'https://hkust-gz.edu.cn/'
     company_logo: hkust
     location: Guangzhou, Guangdong, China
@@ -38,7 +38,7 @@ experience:
 
 
   - title: VLSI Physical Design Intern [("One Student One Chip" Project)](https://ysyx.oscc.cc/) 
-    company: Peng Cheng Laboratory (Advisor: Dr. Biwei Xie)
+    company: Peng Cheng Laboratory
     company_url: 'https://www.pcl.ac.cn/'
     company_logo:  pcl
     location: Shenzhen, Guangdong, China
