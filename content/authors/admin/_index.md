@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wenji Fang
+title: 方闻绩 (Wenji Fang) 
 
 # Is this the primary user of the site?
 superuser: true
