@@ -14,8 +14,13 @@ weight: 35
 # Section title
 title: Selected Awards
 
-* ICCAD
-* EDAthon
 ---
 
+### PhD
 
+* [HU, Guangyu](https://guangyuhu.me/)
+* ZHAO, Qianwen
+* YAN, Zhiyuan
+* CHEN, Chen
+
+<!--- ### RA * FANG, Wenji --->
