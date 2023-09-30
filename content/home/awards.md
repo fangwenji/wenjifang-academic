@@ -1,7 +1,7 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
+widget: blank
 
 # This file represents a page section.
 headless: true
@@ -9,41 +9,24 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Work Experience
-subtitle:
-
-# Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
-
-# Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: Research Assistant
-    company: HKUST(GZ)
-    company_url: 'https://hkust-gz.edu.cn/'
-    company_logo: hkust
-    location: Guangzhou, Guangdong, China
-    date_start: '2021-12-12'
-
-
-
-  - title: VLSI Physical Design Intern [("One Student One Chip" Project)](https://ysyx.oscc.cc/) 
-    company: Peng Cheng Laboratory
-    company_url: 'https://www.pcl.ac.cn/'
-    company_logo:  pcl
-    location: Shenzhen, Guangdong, China
-    date_start: '2021-07-15'
-    date_end: '2021-12-10'
-    description: |2-
-        Responsibilities include:
-        * Complete an entire physical design process of an SoC
-        * Participate in defining clock specification, design constriants  
-        * Design a single-cycle RISC-V processor
-
-design:
-  columns: '2'
+title: Selected Awards
 ---
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: blank
+
+active: true
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 35
+
+# Section title
+title: Selected Awards
+
+---
+
+* ICCAD
+* EDAthon
