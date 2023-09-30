@@ -9,18 +9,16 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 35
+weight: 100
 
 # Section title
 title: Selected Awards
 
 ---
 
-### PhD
+<!-- ### PhD -->
 
-* [HU, Guangyu](https://guangyuhu.me/)
-* ZHAO, Qianwen
-* YAN, Zhiyuan
-* CHEN, Chen
+* ICCAD
+* EDAthon
 
 <!--- ### RA * FANG, Wenji --->
