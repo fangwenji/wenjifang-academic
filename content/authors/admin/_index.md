@@ -18,9 +18,9 @@ bio: My research interests include Electronic Design Automation, Hardware Formal
 
 # Interests to show in About widget
 interests:
-  - Electronic Design Automation
+  - VLSI Design Quality Modeling
   - Hardware Formal Verification
-  - VLSI Design and Verification
+  - AI for Electronic Design Automation
 
 # Education to show in About widget
 education:
