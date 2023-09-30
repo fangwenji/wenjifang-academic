@@ -18,7 +18,8 @@ title: Selected Awards
 
 <!-- ### PhD -->
 
-* ICCAD
-* EDAthon
+* ICCAD Student Scholar Program Grant, 2023
+* 3rd Place Award of [EDAthon Contest](https://sites.google.com/view/ceda-hk/edathon-2023), 2023
+* Full Postgraduate Scholarship of HKUST(GZ), 2022-2024
 
 <!--- ### RA * FANG, Wenji --->
