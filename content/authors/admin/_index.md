@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wenji Fang 
+title: Wenji Fang (方闻绩)
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ organizations:
     url: https://hkust-gz.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Electronic Design Automation, Hardware Formal Verification and VLSI Design and Verification.
+bio: My research interests include Electronic Design Automation, Hardware Formal Verification and VLSI Design.
 
 # Interests to show in About widget
 interests:
