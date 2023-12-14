@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wenji Fang (方闻绩)
+title: Wenji Fang
 
 # Is this the primary user of the site?
 superuser: true
@@ -68,6 +68,6 @@ email: 'wfang838@connect.hkust-gz.edu.cn'
 highlight_name: true
 ---
 
-Hi! I'm Wenji Fang, currently an M.Phil student at the Microelectronics Thrust, Function Hub of the Hong Kong University of Science and Technology (Guangzhou), advised by [Prof. Hongce Zhang](https://hongcezh.people.ust.hk/) and [Prof. Zhiyao Xie](https://zhiyaoxie.com).  Previously, I received my B.Eng in the Department of Electrical Engineering from Nanjing University of Aeronautics and Astronautics. My research interests include Electronic Design Automation, Hardware Formal Verification and VLSI Design and Verification.
+Hi! I'm Wenji Fang (方闻绩), currently an M.Phil student at the Microelectronics Thrust, Function Hub of the Hong Kong University of Science and Technology (Guangzhou), advised by [Prof. Hongce Zhang](https://hongcezh.people.ust.hk/) and [Prof. Zhiyao Xie](https://zhiyaoxie.com).  Previously, I received my B.Eng in the Department of Electrical Engineering from Nanjing University of Aeronautics and Astronautics. My research interests include Electronic Design Automation, Hardware Formal Verification and VLSI Design and Verification.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/FANG_Wenji_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
