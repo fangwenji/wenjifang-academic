@@ -53,7 +53,7 @@ url_code: ''
 url_dataset: ''
 url_poster: 'https://hkustgz-my.sharepoint.com/:b:/g/personal/wfang838_connect_hkust-gz_edu_cn/EQbBN7ZC1JpMte7_4TMdsw4B7VQ0e2dD6uwuM68OD2V96A?e=uiJDJZ'
 url_project: 'https://github.com/hkust-zhiyao/MasterRTL'
-url_slides: 'https://hkustgz-my.sharepoint.com/:b:/g/personal/wfang838_connect_hkust-gz_edu_cn/EQbBN7ZC1JpMte7_4TMdsw4B7VQ0e2dD6uwuM68OD2V96A?e=fccTXS'
+url_slides: 'https://hkustgz-my.sharepoint.com/:b:/g/personal/wfang838_connect_hkust-gz_edu_cn/Edx0_KG4SddGsuxPUj5fcPIBKZJGLimfyQ7mSa45Eghqrg?e=BPS0zI'
 url_source: ''
 url_video: ''
 
