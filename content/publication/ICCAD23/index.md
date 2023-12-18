@@ -48,11 +48,11 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10323951'
 url_code: ''
 url_dataset: ''
 url_poster: 'https://hkustgz-my.sharepoint.com/:b:/g/personal/wfang838_connect_hkust-gz_edu_cn/EQbBN7ZC1JpMte7_4TMdsw4B7VQ0e2dD6uwuM68OD2V96A?e=uiJDJZ'
-url_project: 'https://github.com/fangwenji/MasterRTL'
+url_project: 'https://github.com/hkust-zhiyao/MasterRTL'
 url_slides: 'https://hkustgz-my.sharepoint.com/:b:/g/personal/wfang838_connect_hkust-gz_edu_cn/EQbBN7ZC1JpMte7_4TMdsw4B7VQ0e2dD6uwuM68OD2V96A?e=fccTXS'
 url_source: ''
 url_video: ''
