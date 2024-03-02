@@ -25,8 +25,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Microelectronics
-      institution: The Hong Kong University of Science and Technology (Guangzhou)
+    - course: Ph.D. in Electronic and Computer Engineering
+      institution: The Hong Kong University of Science and Technology
       year: 2024 - 202x
     - course: M.Phil. in Microelectronics
       institution: The Hong Kong University of Science and Technology (Guangzhou)
