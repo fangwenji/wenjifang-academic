@@ -10,8 +10,8 @@ role: MPhil Student in Microelectronics Thrust
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Hong Kong University of Science and Technology (Guangzhou)
-    url: https://hkust-gz.edu.cn/
+  - name: Hong Kong University of Science and Technology
+    url: https://hkust.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Electronic Design Automation, Hardware Formal Verification and VLSI Design.
@@ -25,9 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: M.Phil in Microelectronics
+    - course: Ph.D. in Microelectronics
       institution: The Hong Kong University of Science and Technology (Guangzhou)
-      year: 2022 - Present
+      year: 2024 - 202x
+    - course: M.Phil. in Microelectronics
+      institution: The Hong Kong University of Science and Technology (Guangzhou)
+      year: 2024
 
     - course: B.Eng in Electrical Engineering and Automation
       institution: Nanjing University of Aeronautics and Astronautics
