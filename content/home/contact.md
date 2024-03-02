@@ -25,7 +25,7 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: wfang838@connect.hkust-gz.edu.cn
+  email: wenjifang1@ust.hk
   phone: +86 18551620517
   # address:
   #   street: 450 Serra Mall

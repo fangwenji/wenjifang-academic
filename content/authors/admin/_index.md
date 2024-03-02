@@ -43,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:wfang838@connect.hkust-gz.edu.cn
+    link: mailto:wenjifang1@ust.hk
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
