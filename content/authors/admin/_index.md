@@ -65,7 +65,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'wfang838@connect.hkust-gz.edu.cn'
+email: 'wenjifang1@ust.hk'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
