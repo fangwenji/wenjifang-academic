@@ -26,10 +26,10 @@ interests:
 education:
   courses:
     - course: Ph.D. in Electronic and Computer Engineering
-      institution: The Hong Kong University of Science and Technology
+      institution: Hong Kong University of Science and Technology
       year: starting from 2024
     - course: M.Phil. in Microelectronics
-      institution: The Hong Kong University of Science and Technology (Guangzhou)
+      institution: Hong Kong University of Science and Technology (Guangzhou)
       year: 2024
 
     - course: B.Eng in Electrical Engineering and Automation
@@ -47,9 +47,9 @@ social:
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #   icon_pack: fas
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=YGIfGd4AAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
     link: https://github.com/fangwenji
