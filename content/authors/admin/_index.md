@@ -6,7 +6,7 @@ title: Wenji Fang
 superuser: true
 
 # Role/position/tagline
-role: MPhil Student in Microelectronics Thrust
+role: Phd Student @ ECE HKUST
 
 # Organizations/Affiliations to show in About widget
 organizations:
