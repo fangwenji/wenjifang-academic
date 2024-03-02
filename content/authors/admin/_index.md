@@ -27,7 +27,7 @@ education:
   courses:
     - course: Ph.D. in Electronic and Computer Engineering
       institution: The Hong Kong University of Science and Technology
-      year: 2024 - 202x
+      year: starting from 2024
     - course: M.Phil. in Microelectronics
       institution: The Hong Kong University of Science and Technology (Guangzhou)
       year: 2024
