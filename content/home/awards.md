@@ -18,6 +18,7 @@ title: Selected Awards
 
 <!-- ### PhD -->
 
+* DAC Young Fellow, 2024
 * ICCAD Student Scholar Program Grant, 2023
 * 3rd Place Award of [EDAthon Contest](https://sites.google.com/view/ceda-hk/edathon-2023), 2023
 * Full Postgraduate Studentship of HKUST(GZ), 2022-2024
