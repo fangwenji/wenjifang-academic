@@ -25,7 +25,7 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: wenjifang1@ust.hk
+  email: wfang838@connect.ust.hk
   phone: +86 18551620517
   # address:
   #   street: 450 Serra Mall
