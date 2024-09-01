@@ -17,6 +17,7 @@ title: Teaching Experience
 ---
 
 <!-- ### PhD -->
-* TA of HKUST(GZ) MICS 6000H Logic Design Automation of Digital Systems, 2023 Fall
+* TA of MICS 6000H Logic Design Automation of Digital Systems
+ - HKUST(GZ), 23 Fall
 
 <!--- ### RA * FANG, Wenji --->
