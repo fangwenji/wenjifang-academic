@@ -5,9 +5,9 @@ title: "OpenLLM-RTL: Open Dataset and Benchmark for LLM-Aided Design RTL Generat
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Shang Liu\*
-- Yao Lu\*
-- admin\*
+- Shang Liu*
+- Yao Lu*
+- admin*
 - Mengming Li
 - Zhiyao Xie
 
