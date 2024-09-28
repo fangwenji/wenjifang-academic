@@ -5,14 +5,16 @@ title: "AssertLLM: Generating Hardware Verification Assertions from Design Speci
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Zhiyuan Yan
-- admin
+- Zhiyuan Yan #
+- admin #
 - Mengming Li
 - Min Li
 - Shang Liu
 - Zhiyao Xie
 - Hongce Zhang
-
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 
 
 # Author notes (optional)
