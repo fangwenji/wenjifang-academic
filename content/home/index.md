@@ -1,5 +1,4 @@
 ---
-/* https://fangwenji.github.io/:splat 301!
 # Homepage
 type: widget_page
 
